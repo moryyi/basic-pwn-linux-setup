@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # update
 sudo apt-get update
 
